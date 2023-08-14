@@ -3,13 +3,12 @@
 Welcome to the Instagram-like Webpage Project! This project aims to replicate the look and feel of Instagram's user interface using HTML and CSS. 🎉
 
 ## Features 🚀
-
-🔷 Responsive Design: The webpage is designed to be responsive across various screen sizes. 📱💻
-🔷 Topbar: Contains the Instagram logo and a heart icon. ❤️🖼️
-🔷 Sidebar: Provides navigation options including Home, Search, Explore, Reels, Messages, Notifications, Create, and Profile. 🧭🔍🔦
-🔷 Stories: Displays user stories with profile images and names. 📖📷
-🔷 Post Cards: Features user posts with images, captions, likes, comments, and interactions. 📮💬💗
-🔷 Bottom Bar: Contains icons for navigation and a profile image. 🏠👤
+- Responsive Design 📱💻
+- Topbar: Instagram logo and heart icon ❤️🖼️
+- Sidebar: Navigation options including Home, Search, Explore, Reels, Messages, Notifications, Create, and Profile 🧭🔍🔦
+- Stories: User stories with profile images and names 📖📷
+- Post Cards: User posts with images, captions, likes, comments, and interactions 📮💬💗
+- Bottom Bar: Navigation icons and profile image 🏠👤
 
 ## Usage 🛠️
 
